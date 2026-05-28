@@ -1,0 +1,17 @@
+name = "buildwhitefamilies"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "platform-db"
+database_id   = "30223721-0aed-4c16-8b1c-8085a4fadc13"
+migrations_dir = "migrations"
+
+[[r2_buckets]]
+binding = "PHOTOS"
+bucket_name = "platform-photos"
+
+[vars]
+EMAIL_FROM   = "noreply@yourdomain.com"
+ENVIRONMENT  = "production"
