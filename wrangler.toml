@@ -5,7 +5,7 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "platform-db"
-database_id   = "YOUR_D1_DATABASE_ID_HERE"
+database_id   = "30223721-0aed-4c16-8b1c-8085a4fadc13"
 migrations_dir = "migrations"
 
 [[r2_buckets]]
