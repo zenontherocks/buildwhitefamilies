@@ -13,5 +13,4 @@ binding = "PHOTOS"
 bucket_name = "platform-photos"
 
 [vars]
-EMAIL_FROM   = "noreply@yourdomain.com"
-ENVIRONMENT  = "production"
+ENVIRONMENT = "production"
