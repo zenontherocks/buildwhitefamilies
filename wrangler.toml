@@ -14,4 +14,4 @@ bucket_name = "platform-photos"
 
 [vars]
 ENVIRONMENT = "production"
-EMAIL_FROM  = "onboarding@resend.dev"
+EMAIL_FROM  = "noreply@buildwhitefamilies.com"
